@@ -1,0 +1,9 @@
+   {
+     "APPID": "def431e3",
+     "APIKey": "d540bea367ee00b15ed7ad96650f65d4",
+     "APISecret": "ZGQzNGUwZDk3MDZhZDVkMjViN2MxZGU2",
+     "vad_eos": "10000",
+     "endpoint": "http://localhost:11434",
+     "mode": "text",
+     "model_name": "deepseek-r1:1.5b"
+   }
